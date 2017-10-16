@@ -16,8 +16,8 @@
 - Foreground and Background implementations
 - quit command for exiting the shell
 - piping and redirection supported.
-- Signa; Handling supported.
+- Signal Handling supported (ctrlC , ctrlZ ).
 - ls.c contains implementation of ls command, pinfo.c of pinfo command, built_in_commands contains implemtation of cd ,pwd and echo  command.
 - terminal.c takes line as input and prints username and host and gives all commands to execute.c.
-- execute.c executes all the commands
+- execute.c executes all the commands and com=ntains the implentation of piping and redirection .
 

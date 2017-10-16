@@ -1,13 +1,14 @@
 
 # LINUX MINI SHELL USING C
 
-##Building and Running
+## Building and Running
 
         make;
         ./terminal;
-## To clear all unnecessary files => make clean
+## To clear all unnecessary files
+-	make clean
 
-##Features
+## Features
 - C code implementation of
    a)cd  b)pinfo  c)echo  d)ls [al]  e)pwd.
 - Rest all basic commands implementation similar to terminal.
